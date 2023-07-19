@@ -88,7 +88,7 @@ font-family: 'Quicksand', sans-serif; */
 
 .header {
 
-    background: url(../../img/hero-section-banner.jpg) no-repeat;
+    background: url(../img/hero-section-banner.jpg) no-repeat;
     background-size: cover;
     background-attachment: fixed;
     padding-top: 20px;
@@ -327,7 +327,7 @@ font-family: 'Quicksand', sans-serif; */
 
 .linen-content h3 {
 
-    background: url(../../img/hotel-linens.jpg) no-repeat;
+    background: url(../img/hotel-linens.jpg) no-repeat;
     background-size: cover;
     font-size: 28px;
     color: #fff;
@@ -361,7 +361,7 @@ font-family: 'Quicksand', sans-serif; */
 
 .toi-content h3 {
 
-    background: url(../../img/toileteries-free-img.jpg) no-repeat;
+    background: url(../img/toileteries-free-img.jpg) no-repeat;
     background-size: cover;
     font-size: 28px;
     color: #fff;
@@ -395,7 +395,7 @@ font-family: 'Quicksand', sans-serif; */
 
 .breakfast-content h3 {
 
-    background: url(../../img/breakfast-free-img.jpg) no-repeat;
+    background: url(../img/breakfast-free-img.jpg) no-repeat;
     background-size: cover;
     font-size: 28px;
     color: #fff;
@@ -429,7 +429,7 @@ font-family: 'Quicksand', sans-serif; */
 
 .swimming-content h3 {
 
-    background: url(../../img/swimming-pool-free-img.jpg) no-repeat;
+    background: url(../img/swimming-pool-free-img.jpg) no-repeat;
     background-size: cover;
     font-size: 28px;
     color: #fff;
@@ -464,7 +464,7 @@ font-family: 'Quicksand', sans-serif; */
 
 .wellness-content h3 {
 
-    background: url(../../img/hotel-massage.jpg) no-repeat;
+    background: url(../img/hotel-massage.jpg) no-repeat;
     background-size: cover;
     font-size: 28px;
     color: #fff;
@@ -498,7 +498,7 @@ font-family: 'Quicksand', sans-serif; */
 
 .fine-content h3 {
 
-    background: url(../../img/hotel-meal.jpg) no-repeat;
+    background: url(../img/hotel-meal.jpg) no-repeat;
     background-size: cover;
     font-size: 28px;
     color: #fff;
@@ -532,7 +532,7 @@ font-family: 'Quicksand', sans-serif; */
 
 .in-house-content h3 {
 
-    background: url(../../img/bar-free-img.jpg) no-repeat;
+    background: url(../img/bar-free-img.jpg) no-repeat;
     background-size: cover;
     font-size: 28px;
     color: #fff;
@@ -566,7 +566,7 @@ font-family: 'Quicksand', sans-serif; */
 
 .banquet-content h3 {
 
-    background: url(../../img/banquet-free-img.jpg) no-repeat;
+    background: url(../img/banquet-free-img.jpg) no-repeat;
     background-size: cover;
     font-size: 28px;
     color: #fff;
@@ -599,7 +599,7 @@ font-family: 'Quicksand', sans-serif; */
 
 .escape-main {
 
-    background: url(../../img/cta-bg-free-img.jpg) no-repeat;
+    background: url(../img/cta-bg-free-img.jpg) no-repeat;
     background-size: cover;
     background-attachment: fixed;
     margin-top: 100px;
